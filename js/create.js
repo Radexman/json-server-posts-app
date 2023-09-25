@@ -1,5 +1,4 @@
 const formEl = document.querySelector('.form');
-console.log(formEl);
 
 const createPost = async (e) => {
 	e.preventDefault();

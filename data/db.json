@@ -17,12 +17,6 @@
       "title": "New Vue course coming soon!",
       "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nisi similique sit sequi cumque esse quod fuga ratione placeat voluptates.",
       "likes": 20
-    },
-    {
-      "title": "This is new blog post",
-      "body": "Hi there, life kinda sucks doesn't it?",
-      "likes": 0,
-      "id": 4
     }
   ],
   "polls": [
