@@ -1,5 +1,5 @@
 const blogsEl = document.querySelector('.blogs');
-const uri = 'http://localhost:3000/posts';
+const uri = 'http://localhost:3000/posts?_sort=likes&_order=desc';
 
 const renderPosts = async () => {
 	const response = await fetch(uri);
